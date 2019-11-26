@@ -6,4 +6,4 @@ Tanks is a game for two players.  At the start of the game, each player places 1
 
 Example tanks board: 
 
-![SreenShot](Game Board.png)
+![SreenShot](GameBoard.png)
